@@ -1,0 +1,6 @@
+.stfolder/
+.vs/
+.vscode/
+archive/
+bin/
+build/
